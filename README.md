@@ -42,7 +42,7 @@ chmod +x setup_cron.sh
 
 ## Features
 
-- Fetches Coldplay events from Ticketmaster
+- Fetches Coldplay events from Ticketmaster ( Atleast thats what i wanted to get, the coldplay tickets)
 - Sends Discord notifications
 - Price monitoring (couldn't implement this as I don't have the inventory API which is proprietary)
 
